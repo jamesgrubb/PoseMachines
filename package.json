@@ -1,0 +1,22 @@
+{
+  "name": "posemachines",
+  "version": "1.0.0",
+  "description": "Testing tensor flow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgrubb/PoseMachines.git"
+  },
+  "author": "James Grubb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgrubb/PoseMachines/issues"
+  },
+  "homepage": "https://github.com/jamesgrubb/PoseMachines#readme",
+  "dependencies": {
+    "@tensorflow-models/posenet": "0.0.1"
+  }
+}
